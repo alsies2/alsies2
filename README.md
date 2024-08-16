@@ -1,7 +1,12 @@
-## oii x3 👋
-meu nome é Elissa
+## oii x3 👋 boas vindas ao meu perfil
+⭐ _estou estudando na Alura_  
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-⭐ _estou estudando na Alura_
+### Você pode entrar em contato comigo :mailbox
+> elissamaria.ferreira@gmail.com
 
 
-![](https://media1.tenor.com/m/2uJ1eLPGA5YAAAAC/frank-ocean-frank.gif)
+
+
+![](https://media1.tenor.com/m/vnRkZBpkYwoAAAAC/jinsoul-artms.gif))
